@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+langchain
+langchain-google-genai
+FAISS
+python-dotenv
+google-generativeai
+langchain-groq
+langchain-community
+python-docx
